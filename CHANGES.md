@@ -1,3 +1,9 @@
+# `next` branch
+
+## Breaking Changes
+
+- Removed support for deprecated `babel.stage` and `webpack.uglify` config.
+
 # 0.24.3 / 2020-03-14
 
 ## Changed
